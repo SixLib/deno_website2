@@ -1,4 +1,11 @@
 {
+  "micro": {
+    "type": "github",
+    "owner": "sixlib",
+    "repo": "micro-deno",
+    "desc": "micro is Web Framework for Deno.",
+    "default_version": "master"
+  },
   "a0": {
     "type": "github",
     "owner": "being-curious",
